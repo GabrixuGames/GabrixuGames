@@ -30,7 +30,7 @@
 
 ## 📈 Stats
 
-https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight
+https://github-readme-stats.vercel.app/api?username=GabrixuGames&show_icons=true&theme=tokyonight
 
 ---
 
