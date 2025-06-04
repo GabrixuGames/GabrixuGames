@@ -24,13 +24,13 @@
 ## 📫 Contacto
 
 - ✉️ Email: gabriel.tican.97@gmail.com
-- 💼 LinkedIn: [[tu perfil de LinkedIn]](https://www.linkedin.com/in/gabriel-tican/)
+- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-tican/
 
 ---
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight
 
 ---
 
