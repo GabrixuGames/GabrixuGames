@@ -35,4 +35,4 @@ Desarrollador full stack centrado en aplicaciones web en tiempo real y juegos 2D
 
 ## GitHub stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrixuGames&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrixuGames)
