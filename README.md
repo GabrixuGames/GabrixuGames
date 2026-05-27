@@ -30,7 +30,7 @@ Desarrollador full stack centrado en aplicaciones web en tiempo real y juegos 2D
 
 - ✉️ [gabriel.tican.97@gmail.com](mailto:gabriel.tican.97@gmail.com)
 - 💼 [linkedin.com/in/gabriel-tican](https://www.linkedin.com/in/gabriel-tican/)
-- 🌐 [https://gabriel-tican.tech/](https://gabriel-tican.tech/)
+- 🌐 [gabriel-tican.tech](https://gabriel-tican.tech/)
 
 ---
 
